@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="119.22095pt" version="1.1" viewBox="0 0 428.97 119.22095" width="428.97pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-02-09T11:10:55.189254</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 119.22095 
+L 428.97 119.22095 
+L 428.97 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 34.13 97.48095 
+L 101.1 97.48095 
+L 101.1 17.11695 
+L 34.13 17.11695 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="mdf3a21b6d5" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="46.686875" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 2P -->
+      <g transform="translate(42.35875 110.3797)scale(0.08 -0.08)">
+       <defs>
+        <path d="M 3.375 0 
+L 3.375 1.953125 
+L 25.78125 36.28125 
+Q 32.8125 47.078125 32.8125 54.59375 
+Q 32.8125 64.5 21.625 64.5 
+Q 17.671875 64.5 14.203125 62.421875 
+Q 10.75 60.359375 9.1875 57.171875 
+L 2.875 62.359375 
+Q 4.546875 67.140625 9.40625 69.96875 
+Q 14.265625 72.796875 21.140625 72.796875 
+Q 31.453125 72.796875 37.25 68.03125 
+Q 43.0625 63.28125 43.0625 54.59375 
+Q 43.0625 46.53125 35.359375 34.28125 
+L 19.28125 8.796875 
+L 47.3125 8.796875 
+L 47.3125 0 
+z
+" id="TrebuchetMS-50"/>
+        <path d="M 17.09375 27.546875 
+L 17.09375 0 
+L 7.328125 0 
+L 7.328125 71.53125 
+Q 18.40625 72.015625 20.703125 72.015625 
+Q 51.859375 72.015625 51.859375 51.171875 
+Q 51.859375 27.046875 24.3125 27.046875 
+Q 22.65625 27.046875 17.09375 27.546875 
+z
+M 17.09375 62.75 
+L 17.09375 36.328125 
+Q 23.296875 35.84375 23.640625 35.84375 
+Q 41.796875 35.84375 41.796875 50.140625 
+Q 41.796875 63.234375 22.40625 63.234375 
+Q 20.453125 63.234375 17.09375 62.75 
+z
+" id="TrebuchetMS-80"/>
+       </defs>
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="88.543125" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- no 2P -->
+      <g transform="translate(78.678125 110.3797)scale(0.08 -0.08)">
+       <defs>
+        <path d="M 38.765625 0 
+L 38.765625 30.421875 
+Q 38.765625 38.765625 36.25 42.109375 
+Q 33.734375 45.453125 27.828125 45.453125 
+Q 24.65625 45.453125 21.1875 43.546875 
+Q 17.71875 41.65625 15.875 38.875 
+L 15.875 0 
+L 6.59375 0 
+L 6.59375 52.296875 
+L 12.9375 52.296875 
+L 15.875 45.5625 
+Q 20.453125 53.265625 30.859375 53.265625 
+Q 48.046875 53.265625 48.046875 32.375 
+L 48.046875 0 
+z
+" id="TrebuchetMS-110"/>
+        <path d="M 3.171875 26.265625 
+Q 3.171875 38.375 9.6875 45.8125 
+Q 16.21875 53.265625 26.859375 53.265625 
+Q 38.09375 53.265625 44.28125 46.109375 
+Q 50.484375 38.96875 50.484375 26.265625 
+Q 50.484375 13.625 44.140625 6.3125 
+Q 37.796875 -0.984375 26.859375 -0.984375 
+Q 15.671875 -0.984375 9.421875 6.390625 
+Q 3.171875 13.765625 3.171875 26.265625 
+z
+M 12.9375 26.265625 
+Q 12.9375 6.59375 26.859375 6.59375 
+Q 33.34375 6.59375 37.03125 11.859375 
+Q 40.71875 17.140625 40.71875 26.265625 
+Q 40.71875 45.703125 26.859375 45.703125 
+Q 20.515625 45.703125 16.71875 40.53125 
+Q 12.9375 35.359375 12.9375 26.265625 
+z
+" id="TrebuchetMS-111"/>
+        <path id="TrebuchetMS-32"/>
+       </defs>
+       <use xlink:href="#TrebuchetMS-110"/>
+       <use x="54.638672" xlink:href="#TrebuchetMS-111"/>
+       <use x="108.300781" xlink:href="#TrebuchetMS-32"/>
+       <use x="138.427734" xlink:href="#TrebuchetMS-50"/>
+       <use x="190.869141" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="meb5e284a50" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="34.13" xlink:href="#meb5e284a50" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 0 -->
+      <g transform="translate(22.935 100.430325)scale(0.08 -0.08)">
+       <defs>
+        <path d="M 3.125 37.9375 
+Q 3.125 53.375 9.375 63.078125 
+Q 15.625 72.796875 26.953125 72.796875 
+Q 38.1875 72.796875 43.828125 64.6875 
+Q 49.46875 56.59375 49.46875 36.375 
+Q 49.46875 19 43.546875 9 
+Q 37.640625 -0.984375 26.265625 -0.984375 
+Q 14.890625 -0.984375 9 7.078125 
+Q 3.125 15.140625 3.125 37.9375 
+z
+M 12.890625 37.0625 
+Q 12.890625 7.328125 25.59375 7.328125 
+Q 32.859375 7.328125 36.28125 13.921875 
+Q 39.703125 20.515625 39.703125 37.015625 
+Q 39.703125 48.390625 38.375 53.703125 
+Q 37.0625 59.03125 34.125 61.765625 
+Q 31.203125 64.5 26.703125 64.5 
+Q 12.890625 64.5 12.890625 37.0625 
+z
+" id="TrebuchetMS-48"/>
+       </defs>
+       <use xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="34.13" xlink:href="#meb5e284a50" y="76.164239"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 5 -->
+      <g transform="translate(22.935 79.113614)scale(0.08 -0.08)">
+       <defs>
+        <path d="M 11.328125 34.90625 
+L 8.015625 37.203125 
+L 8.015625 71.828125 
+L 43.609375 71.828125 
+L 43.609375 63.53125 
+L 17.28125 63.53125 
+L 17.28125 46.140625 
+Q 20.90625 48.828125 26.46875 48.828125 
+Q 36.421875 48.828125 41.671875 42.875 
+Q 46.921875 36.921875 46.921875 25.921875 
+Q 46.921875 -0.984375 22.953125 -0.984375 
+Q 12.9375 -0.984375 6.34375 4.59375 
+L 10.109375 12.75 
+Q 16.75 7.328125 22.90625 7.328125 
+Q 36.671875 7.328125 36.671875 24.515625 
+Q 36.671875 40.53125 23.09375 40.53125 
+Q 16.546875 40.53125 11.328125 34.90625 
+z
+" id="TrebuchetMS-53"/>
+       </defs>
+       <use xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="34.13" xlink:href="#meb5e284a50" y="54.847528"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 10 -->
+      <g transform="translate(18.74 57.796903)scale(0.08 -0.08)">
+       <defs>
+        <path d="M 24.3125 0 
+L 24.3125 54.828125 
+L 9.765625 45.75 
+L 9.765625 54.890625 
+Q 15.28125 57.671875 21.5 62.546875 
+Q 27.734375 67.4375 31.15625 71.828125 
+L 34.078125 71.828125 
+L 34.078125 0 
+z
+" id="TrebuchetMS-49"/>
+       </defs>
+       <use xlink:href="#TrebuchetMS-49"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="34.13" xlink:href="#meb5e284a50" y="33.530817"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 15 -->
+      <g transform="translate(18.74 36.480192)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-49"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_7">
+     <!-- sample n -->
+     <g transform="translate(13.09875 73.322075)rotate(-90)scale(0.08 -0.08)">
+      <defs>
+       <path d="M 3.171875 3.125 
+L 6.453125 11.921875 
+Q 14.203125 6.84375 18.953125 6.84375 
+Q 27.546875 6.84375 27.546875 14.0625 
+Q 27.546875 19.234375 19.234375 22.953125 
+Q 12.84375 25.875 10.625 27.390625 
+Q 8.40625 28.90625 6.765625 30.828125 
+Q 5.125 32.765625 4.3125 34.9375 
+Q 3.515625 37.109375 3.515625 39.59375 
+Q 3.515625 46.046875 8.203125 49.65625 
+Q 12.890625 53.265625 20.453125 53.265625 
+Q 26.171875 53.265625 34.859375 49.65625 
+L 32.234375 41.0625 
+Q 26.703125 45.453125 21.140625 45.453125 
+Q 17.828125 45.453125 15.546875 43.890625 
+Q 13.28125 42.328125 13.28125 39.9375 
+Q 13.28125 34.90625 19 32.328125 
+L 25.640625 29.296875 
+Q 31.734375 26.515625 34.515625 22.953125 
+Q 37.3125 19.390625 37.3125 14.015625 
+Q 37.3125 6.984375 32.375 3 
+Q 27.4375 -0.984375 18.703125 -0.984375 
+Q 10.453125 -0.984375 3.171875 3.125 
+z
+" id="TrebuchetMS-115"/>
+       <path d="M 36.140625 6 
+Q 30.5625 -0.984375 19.09375 -0.984375 
+Q 12.9375 -0.984375 8.421875 3.484375 
+Q 3.90625 7.953125 3.90625 14.59375 
+Q 3.90625 22.5625 10.859375 28.046875 
+Q 17.828125 33.546875 28.609375 33.546875 
+Q 31.546875 33.546875 35.25 32.28125 
+Q 35.25 44.96875 23.921875 44.96875 
+Q 15.234375 44.96875 10.546875 40.28125 
+L 6.640625 48.046875 
+Q 9.28125 50.203125 13.9375 51.734375 
+Q 18.609375 53.265625 22.859375 53.265625 
+Q 34.234375 53.265625 39.375 48.09375 
+Q 44.53125 42.921875 44.53125 31.640625 
+L 44.53125 12.890625 
+Q 44.53125 6 48.640625 3.71875 
+L 48.640625 -0.921875 
+Q 42.96875 -0.921875 40.15625 0.6875 
+Q 37.359375 2.296875 36.140625 6 
+z
+M 35.25 25.6875 
+Q 30.859375 26.65625 29.109375 26.65625 
+Q 22.078125 26.65625 17.625 23.046875 
+Q 13.1875 19.4375 13.1875 14.5 
+Q 13.1875 6.34375 22.796875 6.34375 
+Q 29.828125 6.34375 35.25 13.03125 
+z
+" id="TrebuchetMS-97"/>
+       <path d="M 67.140625 0 
+L 67.140625 33.109375 
+Q 67.140625 45.453125 56.453125 45.453125 
+Q 53.078125 45.453125 50.140625 43.375 
+Q 47.21875 41.3125 46.140625 38.671875 
+L 46.140625 0 
+L 36.859375 0 
+L 36.859375 37.15625 
+Q 36.859375 41.015625 33.953125 43.234375 
+Q 31.0625 45.453125 26.265625 45.453125 
+Q 23.484375 45.453125 20.328125 43.296875 
+Q 17.1875 41.15625 15.875 38.578125 
+L 15.875 0 
+L 6.59375 0 
+L 6.59375 52.296875 
+L 12.640625 52.296875 
+L 15.71875 46.234375 
+Q 21.09375 53.265625 29.15625 53.265625 
+Q 40.375 53.265625 44.875 46.296875 
+Q 46.4375 49.265625 50.6875 51.265625 
+Q 54.9375 53.265625 59.421875 53.265625 
+Q 67.53125 53.265625 71.96875 48.453125 
+Q 76.421875 43.65625 76.421875 34.96875 
+L 76.421875 0 
+z
+" id="TrebuchetMS-109"/>
+       <path d="M 15.875 2.875 
+L 15.875 -20.515625 
+L 6.59375 -20.515625 
+L 6.59375 52.296875 
+L 15.875 52.296875 
+L 15.875 48 
+Q 21.140625 53.265625 28.609375 53.265625 
+Q 39.75 53.265625 45.953125 46.328125 
+Q 52.15625 39.40625 52.15625 26.03125 
+Q 52.15625 14.109375 45.90625 6.5625 
+Q 39.65625 -0.984375 27.828125 -0.984375 
+Q 24.515625 -0.984375 20.71875 0.1875 
+Q 16.9375 1.375 15.875 2.875 
+z
+M 15.875 41.015625 
+L 15.875 10.546875 
+Q 16.75 9.234375 19.578125 8.03125 
+Q 22.40625 6.84375 25.09375 6.84375 
+Q 42.390625 6.84375 42.390625 26.375 
+Q 42.390625 36.28125 38.28125 40.859375 
+Q 34.1875 45.453125 25.140625 45.453125 
+Q 23.1875 45.453125 20.359375 44.078125 
+Q 17.53125 42.71875 15.875 41.015625 
+z
+" id="TrebuchetMS-112"/>
+       <path d="M 7.328125 14.796875 
+L 7.328125 73.734375 
+L 16.609375 73.734375 
+L 16.609375 16.359375 
+Q 16.609375 12.15625 19.015625 9.734375 
+Q 21.4375 7.328125 25.34375 7.328125 
+L 25.34375 -0.984375 
+Q 7.328125 -0.984375 7.328125 14.796875 
+z
+" id="TrebuchetMS-108"/>
+       <path d="M 50.640625 25.25 
+L 12.9375 25.25 
+Q 12.9375 16.0625 17.96875 11.140625 
+Q 22.40625 6.84375 29.390625 6.84375 
+Q 37.359375 6.84375 42.671875 11.46875 
+L 46.578125 4.78125 
+Q 44.4375 2.640625 39.984375 1.078125 
+Q 34.421875 -0.984375 27.59375 -0.984375 
+Q 17.71875 -0.984375 10.84375 5.71875 
+Q 3.171875 13.09375 3.171875 25.53125 
+Q 3.171875 38.484375 11.03125 46.296875 
+Q 18.0625 53.265625 27.6875 53.265625 
+Q 38.875 53.265625 45.21875 46.96875 
+Q 51.375 40.921875 51.375 30.90625 
+Q 51.375 27.828125 50.640625 25.25 
+z
+M 28.125 45.453125 
+Q 21.921875 45.453125 17.71875 41.453125 
+Q 13.71875 37.640625 13.1875 31.984375 
+L 42.140625 31.984375 
+Q 42.140625 37.59375 38.625 41.359375 
+Q 34.765625 45.453125 28.125 45.453125 
+z
+" id="TrebuchetMS-101"/>
+      </defs>
+      <use xlink:href="#TrebuchetMS-115"/>
+      <use x="40.478516" xlink:href="#TrebuchetMS-97"/>
+      <use x="93.017578" xlink:href="#TrebuchetMS-109"/>
+      <use x="176.025391" xlink:href="#TrebuchetMS-112"/>
+      <use x="231.738281" xlink:href="#TrebuchetMS-108"/>
+      <use x="261.230469" xlink:href="#TrebuchetMS-101"/>
+      <use x="315.771484" xlink:href="#TrebuchetMS-32"/>
+      <use x="345.898438" xlink:href="#TrebuchetMS-110"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_7">
+    <path d="M 46.686875 93.217608 
+L 88.543125 46.320844 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <defs>
+     <path d="M 0 1.5 
+C 0.397805 1.5 0.77937 1.341951 1.06066 1.06066 
+C 1.341951 0.77937 1.5 0.397805 1.5 0 
+C 1.5 -0.397805 1.341951 -0.77937 1.06066 -1.06066 
+C 0.77937 -1.341951 0.397805 -1.5 0 -1.5 
+C -0.397805 -1.5 -0.77937 -1.341951 -1.06066 -1.06066 
+C -1.341951 -0.77937 -1.5 -0.397805 -1.5 0 
+C -1.5 0.397805 -1.341951 0.77937 -1.06066 1.06066 
+C -0.77937 1.341951 -0.397805 1.5 0 1.5 
+z
+" id="mb3cbe44772" style="stroke:#708090;stroke-opacity:0.5;"/>
+    </defs>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="93.217608"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="46.320844"/>
+    </g>
+   </g>
+   <g id="line2d_8">
+    <path d="M 46.686875 88.954266 
+L 88.543125 80.427581 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="88.954266"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="80.427581"/>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <path d="M 46.686875 88.954266 
+L 88.543125 63.374213 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="88.954266"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="63.374213"/>
+    </g>
+   </g>
+   <g id="line2d_10">
+    <path d="M 46.686875 93.217608 
+L 88.543125 54.847528 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="93.217608"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="54.847528"/>
+    </g>
+   </g>
+   <g id="line2d_11">
+    <path d="M 46.686875 84.690923 
+L 88.543125 33.530817 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="84.690923"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="33.530817"/>
+    </g>
+   </g>
+   <g id="line2d_12">
+    <path d="M 46.686875 84.690923 
+L 88.543125 33.530817 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="84.690923"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="33.530817"/>
+    </g>
+   </g>
+   <g id="line2d_13">
+    <path d="M 46.686875 88.954266 
+L 88.543125 37.79416 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="88.954266"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="37.79416"/>
+    </g>
+   </g>
+   <g id="line2d_14">
+    <path d="M 46.686875 88.954266 
+L 88.543125 42.057502 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="88.954266"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="42.057502"/>
+    </g>
+   </g>
+   <g id="line2d_15">
+    <path d="M 46.686875 84.690923 
+L 88.543125 37.79416 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="84.690923"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="37.79416"/>
+    </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 46.686875 84.690923 
+L 88.543125 33.530817 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="84.690923"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="33.530817"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 46.686875 84.690923 
+L 88.543125 33.530817 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="84.690923"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="33.530817"/>
+    </g>
+   </g>
+   <g id="line2d_18">
+    <path d="M 46.686875 80.427581 
+L 88.543125 46.320844 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="80.427581"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="46.320844"/>
+    </g>
+   </g>
+   <g id="line2d_19">
+    <path d="M 46.686875 84.690923 
+L 88.543125 59.11087 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="84.690923"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="59.11087"/>
+    </g>
+   </g>
+   <g id="line2d_20">
+    <path d="M 46.686875 80.427581 
+L 88.543125 54.847528 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="46.686875" xlink:href="#mb3cbe44772" y="80.427581"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="88.543125" xlink:href="#mb3cbe44772" y="54.847528"/>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <path d="M 46.686875 86.51807 
+L 88.543125 46.929893 
+" style="fill:none;stroke:#000000;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke-width:1.5;"/>
+    <defs>
+     <path d="M 0 1.5 
+C 0.397805 1.5 0.77937 1.341951 1.06066 1.06066 
+C 1.341951 0.77937 1.5 0.397805 1.5 0 
+C 1.5 -0.397805 1.341951 -0.77937 1.06066 -1.06066 
+C 0.77937 -1.341951 0.397805 -1.5 0 -1.5 
+C -0.397805 -1.5 -0.77937 -1.341951 -1.06066 -1.06066 
+C -1.341951 -0.77937 -1.5 -0.397805 -1.5 0 
+C -1.5 0.397805 -1.341951 0.77937 -1.06066 1.06066 
+C -0.77937 1.341951 -0.397805 1.5 0 1.5 
+z
+" id="mb519f92386" style="stroke:#000000;"/>
+    </defs>
+    <g>
+     <use style="stroke:#000000;" x="46.686875" xlink:href="#mb519f92386" y="86.51807"/>
+     <use style="stroke:#000000;" x="88.543125" xlink:href="#mb519f92386" y="46.929893"/>
+    </g>
+   </g>
+   <g id="line2d_22">
+    <path clip-path="url(#pab6b07ab6f)" d="M 46.686875 20.740791 
+L 88.543125 20.740791 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 34.13 97.48095 
+L 34.13 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 34.13 97.48095 
+L 101.1 97.48095 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="text_8">
+    <!-- * * * -->
+    <g transform="translate(60.79875 16.903783)scale(0.08 -0.08)">
+     <defs>
+      <path d="M 29.15625 55.03125 
+L 20.703125 54.890625 
+L 28.421875 49.75 
+L 30.71875 46.734375 
+L 24.75 41.65625 
+L 22.125 45.0625 
+L 18.109375 52.828125 
+L 13.671875 44.921875 
+L 11.578125 41.796875 
+L 5.171875 46.734375 
+L 7.625 50.09375 
+L 15.328125 54.15625 
+L 6.734375 55.46875 
+L 2.34375 57.03125 
+L 5.859375 64.359375 
+L 10.546875 62.546875 
+L 16.65625 57.90625 
+L 13.578125 67.921875 
+L 13.578125 71.78125 
+L 22.171875 71.78125 
+L 22.171875 68.0625 
+L 19.234375 57.765625 
+L 26.953125 62.984375 
+L 30.5625 64.3125 
+L 33.34375 56.453125 
+z
+" id="TrebuchetMS-42"/>
+     </defs>
+     <use xlink:href="#TrebuchetMS-42"/>
+     <use x="36.71875" xlink:href="#TrebuchetMS-32"/>
+     <use x="66.845703" xlink:href="#TrebuchetMS-42"/>
+     <use x="103.564453" xlink:href="#TrebuchetMS-32"/>
+     <use x="133.691406" xlink:href="#TrebuchetMS-42"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 141.02 97.48095 
+L 207.99 97.48095 
+L 207.99 17.11695 
+L 141.02 17.11695 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_23">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.576875" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 2P -->
+      <g transform="translate(149.24875 110.3797)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_24">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="195.433125" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- no 2P -->
+      <g transform="translate(185.568125 110.3797)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-110"/>
+       <use x="54.638672" xlink:href="#TrebuchetMS-111"/>
+       <use x="108.300781" xlink:href="#TrebuchetMS-32"/>
+       <use x="138.427734" xlink:href="#TrebuchetMS-50"/>
+       <use x="190.869141" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5">
+     <g id="line2d_25">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="141.02" xlink:href="#meb5e284a50" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 0 -->
+      <g transform="translate(129.825 100.430325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_26">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="141.02" xlink:href="#meb5e284a50" y="77.38995"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 25 -->
+      <g transform="translate(125.63 80.339325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_27">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="141.02" xlink:href="#meb5e284a50" y="57.29895"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 50 -->
+      <g transform="translate(125.63 60.248325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-53"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_28">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="141.02" xlink:href="#meb5e284a50" y="37.20795"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 75 -->
+      <g transform="translate(125.63 40.157325)scale(0.08 -0.08)">
+       <defs>
+        <path d="M 20.90625 0 
+L 10.0625 0 
+Q 13.671875 11.46875 22.21875 30.34375 
+Q 30.765625 49.21875 37.84375 62.546875 
+L 4.109375 62.546875 
+L 4.109375 71.828125 
+L 50.484375 71.828125 
+L 50.484375 68.015625 
+L 44.1875 55.609375 
+Q 41.015625 49.3125 37.546875 41.796875 
+Q 34.078125 34.28125 30.75 26.46875 
+Q 27.4375 18.65625 24.953125 11.96875 
+Q 22.46875 5.28125 20.90625 0 
+z
+" id="TrebuchetMS-55"/>
+       </defs>
+       <use xlink:href="#TrebuchetMS-55"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_29">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="141.02" xlink:href="#meb5e284a50" y="17.11695"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 100 -->
+      <g transform="translate(121.435 20.066325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-49"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+       <use x="104.882812" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_16">
+     <!-- smoky % -->
+     <g transform="translate(115.79375 71.980825)rotate(-90)scale(0.08 -0.08)">
+      <defs>
+       <path d="M 40.375 0 
+L 23.96875 26.171875 
+L 15.875 17.828125 
+L 15.875 0 
+L 6.59375 0 
+L 6.59375 73.734375 
+L 15.875 73.734375 
+L 15.875 27.984375 
+L 35.890625 52.296875 
+L 46.734375 52.296875 
+L 29.984375 32.421875 
+L 50.4375 0 
+z
+" id="TrebuchetMS-107"/>
+       <path d="M 26.5625 -8.890625 
+Q 24.75 -13.875 18.96875 -17.1875 
+Q 13.1875 -20.515625 6.0625 -20.515625 
+L 6.0625 -12.203125 
+Q 11.859375 -12.203125 16.015625 -9.484375 
+Q 20.171875 -6.78125 20.171875 -2.875 
+Q 20.171875 1.421875 18.65625 5.59375 
+Q 17.140625 9.765625 14.75 15.921875 
+L 0.59375 52.296875 
+L 10.0625 52.296875 
+L 25.4375 11.859375 
+L 39.265625 52.296875 
+L 48.734375 52.296875 
+z
+" id="TrebuchetMS-121"/>
+       <path d="M 10.640625 -0.984375 
+L 4.4375 -0.984375 
+L 47.5625 72.796875 
+L 53.71875 72.796875 
+z
+M 2.984375 56.734375 
+Q 2.984375 63.921875 6.9375 68.359375 
+Q 10.890625 72.796875 17 72.796875 
+Q 23 72.796875 26.578125 68.40625 
+Q 30.171875 64.015625 30.171875 55.8125 
+Q 30.171875 48.1875 26.359375 43.71875 
+Q 22.5625 39.265625 16.546875 39.265625 
+Q 2.984375 39.265625 2.984375 56.734375 
+z
+M 9.125 56.25 
+Q 9.125 50.53125 11.046875 47.375 
+Q 12.984375 44.234375 16.109375 44.234375 
+Q 24.03125 44.234375 24.03125 56.203125 
+Q 24.03125 67.828125 16.84375 67.828125 
+Q 13.28125 67.828125 11.203125 64.703125 
+Q 9.125 61.578125 9.125 56.25 
+z
+M 29.34375 16.5 
+Q 29.34375 23.6875 33.296875 28.125 
+Q 37.25 32.5625 43.359375 32.5625 
+Q 49.359375 32.5625 52.953125 28.171875 
+Q 56.546875 23.78125 56.546875 15.578125 
+Q 56.546875 7.953125 52.734375 3.484375 
+Q 48.921875 -0.984375 42.921875 -0.984375 
+Q 29.34375 -0.984375 29.34375 16.5 
+z
+M 35.5 16.015625 
+Q 35.5 10.296875 37.421875 7.140625 
+Q 39.359375 4 42.484375 4 
+Q 50.390625 4 50.390625 15.96875 
+Q 50.390625 27.59375 43.21875 27.59375 
+Q 39.65625 27.59375 37.578125 24.46875 
+Q 35.5 21.34375 35.5 16.015625 
+z
+" id="TrebuchetMS-37"/>
+      </defs>
+      <use xlink:href="#TrebuchetMS-115"/>
+      <use x="40.478516" xlink:href="#TrebuchetMS-109"/>
+      <use x="123.486328" xlink:href="#TrebuchetMS-111"/>
+      <use x="177.148438" xlink:href="#TrebuchetMS-107"/>
+      <use x="227.587891" xlink:href="#TrebuchetMS-121"/>
+      <use x="276.904297" xlink:href="#TrebuchetMS-32"/>
+      <use x="307.03125" xlink:href="#TrebuchetMS-37"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_30">
+    <path d="M 153.576875 17.11695 
+L 195.433125 90.810738 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="17.11695"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="90.810738"/>
+    </g>
+   </g>
+   <g id="line2d_31">
+    <path d="M 153.576875 57.29895 
+L 195.433125 77.38995 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="57.29895"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="77.38995"/>
+    </g>
+   </g>
+   <g id="line2d_32">
+    <path d="M 153.576875 97.48095 
+L 195.433125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_33">
+    <path d="M 153.576875 97.48095 
+L 195.433125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_34">
+    <path d="M 153.576875 70.719738 
+L 195.433125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="70.719738"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_35">
+    <path d="M 153.576875 97.48095 
+L 195.433125 92.096562 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="92.096562"/>
+    </g>
+   </g>
+   <g id="line2d_36">
+    <path d="M 153.576875 97.48095 
+L 195.433125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_37">
+    <path d="M 153.576875 97.48095 
+L 195.433125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_38">
+    <path d="M 153.576875 97.48095 
+L 195.433125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_39">
+    <path d="M 153.576875 97.48095 
+L 195.433125 92.096562 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="92.096562"/>
+    </g>
+   </g>
+   <g id="line2d_40">
+    <path d="M 153.576875 97.48095 
+L 195.433125 92.096562 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="92.096562"/>
+    </g>
+   </g>
+   <g id="line2d_41">
+    <path d="M 153.576875 97.48095 
+L 195.433125 90.810738 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="90.810738"/>
+    </g>
+   </g>
+   <g id="line2d_42">
+    <path d="M 153.576875 97.48095 
+L 195.433125 88.560546 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="88.560546"/>
+    </g>
+   </g>
+   <g id="line2d_43">
+    <path d="M 153.576875 77.38995 
+L 195.433125 89.44455 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="153.576875" xlink:href="#mb3cbe44772" y="77.38995"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="195.433125" xlink:href="#mb3cbe44772" y="89.44455"/>
+    </g>
+   </g>
+   <g id="line2d_44">
+    <path clip-path="url(#p15c8cf9df9)" d="M 153.576875 85.523935 
+L 195.433125 92.727993 
+" style="fill:none;stroke:#000000;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke-width:1.5;"/>
+    <g clip-path="url(#p15c8cf9df9)">
+     <use style="stroke:#000000;" x="153.576875" xlink:href="#mb519f92386" y="85.523935"/>
+     <use style="stroke:#000000;" x="195.433125" xlink:href="#mb519f92386" y="92.727993"/>
+    </g>
+   </g>
+   <g id="line2d_45">
+    <path clip-path="url(#p15c8cf9df9)" d="M 153.576875 17.11695 
+L 195.433125 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 141.02 97.48095 
+L 141.02 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 141.02 97.48095 
+L 207.99 97.48095 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="text_17">
+    <!-- n.s. -->
+    <g transform="translate(167.7625 13.09875)scale(0.08 -0.08)">
+     <defs>
+      <path d="M 17.28125 13.71875 
+Q 20.3125 13.71875 22.453125 11.5625 
+Q 24.609375 9.421875 24.609375 6.390625 
+Q 24.609375 3.375 22.453125 1.1875 
+Q 20.3125 -0.984375 17.28125 -0.984375 
+Q 14.265625 -0.984375 12.109375 1.1875 
+Q 9.96875 3.375 9.96875 6.390625 
+Q 9.96875 9.421875 12.109375 11.5625 
+Q 14.265625 13.71875 17.28125 13.71875 
+z
+" id="TrebuchetMS-46"/>
+     </defs>
+     <use xlink:href="#TrebuchetMS-110"/>
+     <use x="54.638672" xlink:href="#TrebuchetMS-46"/>
+     <use x="91.357422" xlink:href="#TrebuchetMS-115"/>
+     <use x="131.835938" xlink:href="#TrebuchetMS-46"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 247.91 97.48095 
+L 314.88 97.48095 
+L 314.88 17.11695 
+L 247.91 17.11695 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_5">
+     <g id="line2d_46">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="260.466875" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 2P -->
+      <g transform="translate(256.13875 110.3797)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_47">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="302.323125" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- no 2P -->
+      <g transform="translate(292.458125 110.3797)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-110"/>
+       <use x="54.638672" xlink:href="#TrebuchetMS-111"/>
+       <use x="108.300781" xlink:href="#TrebuchetMS-32"/>
+       <use x="138.427734" xlink:href="#TrebuchetMS-50"/>
+       <use x="190.869141" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_10">
+     <g id="line2d_48">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="247.91" xlink:href="#meb5e284a50" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 0 -->
+      <g transform="translate(236.715 100.430325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_49">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="247.91" xlink:href="#meb5e284a50" y="77.38995"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 25 -->
+      <g transform="translate(232.52 80.339325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_50">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="247.91" xlink:href="#meb5e284a50" y="57.29895"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 50 -->
+      <g transform="translate(232.52 60.248325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-53"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_51">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="247.91" xlink:href="#meb5e284a50" y="37.20795"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 75 -->
+      <g transform="translate(232.52 40.157325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-55"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_52">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="247.91" xlink:href="#meb5e284a50" y="17.11695"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 100 -->
+      <g transform="translate(228.325 20.066325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-49"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+       <use x="104.882812" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_25">
+     <!-- patchy % -->
+     <g transform="translate(222.68375 72.9602)rotate(-90)scale(0.08 -0.08)">
+      <defs>
+       <path d="M 9.90625 44.96875 
+L 3.859375 44.96875 
+L 3.859375 52.296875 
+L 9.90625 52.296875 
+L 9.90625 63.234375 
+L 19.1875 66.796875 
+L 19.1875 52.296875 
+L 33.546875 52.296875 
+L 33.546875 44.96875 
+L 19.1875 44.96875 
+L 19.1875 19 
+Q 19.1875 12.40625 21.40625 9.625 
+Q 23.640625 6.84375 28.5625 6.84375 
+Q 32.125 6.84375 35.9375 8.640625 
+L 37.3125 0.484375 
+Q 31.546875 -0.984375 24.65625 -0.984375 
+Q 18.453125 -0.984375 14.171875 3.625 
+Q 9.90625 8.25 9.90625 15.28125 
+z
+" id="TrebuchetMS-116"/>
+       <path d="M 46.046875 48.046875 
+L 41.453125 41.5 
+Q 40.046875 42.921875 36.453125 44.1875 
+Q 32.859375 45.453125 29.390625 45.453125 
+Q 21.828125 45.453125 17.375 40.15625 
+Q 12.9375 34.859375 12.9375 25.640625 
+Q 12.9375 16.453125 17.46875 11.640625 
+Q 22.015625 6.84375 30.078125 6.84375 
+Q 36.328125 6.84375 42.671875 11.671875 
+L 46.34375 3.859375 
+Q 38.875 -0.984375 27.828125 -0.984375 
+Q 17.140625 -0.984375 10.15625 6.1875 
+Q 3.171875 13.375 3.171875 25.640625 
+Q 3.171875 38.140625 10.421875 45.703125 
+Q 17.671875 53.265625 30.28125 53.265625 
+Q 34.328125 53.265625 39.0625 51.5625 
+Q 43.796875 49.859375 46.046875 48.046875 
+z
+" id="TrebuchetMS-99"/>
+       <path d="M 38.8125 0 
+L 38.8125 32.859375 
+Q 38.8125 38.71875 35.9375 42.078125 
+Q 33.0625 45.453125 27.828125 45.453125 
+Q 24.46875 45.453125 21.0625 43.46875 
+Q 17.671875 41.5 15.875 38.875 
+L 15.875 0 
+L 6.59375 0 
+L 6.59375 73.734375 
+L 15.875 73.734375 
+L 15.875 46.53125 
+Q 17.71875 49.421875 21.84375 51.34375 
+Q 25.984375 53.265625 30.375 53.265625 
+Q 38.671875 53.265625 43.375 47.796875 
+Q 48.09375 42.328125 48.09375 32.859375 
+L 48.09375 0 
+z
+" id="TrebuchetMS-104"/>
+      </defs>
+      <use xlink:href="#TrebuchetMS-112"/>
+      <use x="55.712891" xlink:href="#TrebuchetMS-97"/>
+      <use x="108.251953" xlink:href="#TrebuchetMS-116"/>
+      <use x="147.900391" xlink:href="#TrebuchetMS-99"/>
+      <use x="197.412109" xlink:href="#TrebuchetMS-104"/>
+      <use x="252.050781" xlink:href="#TrebuchetMS-121"/>
+      <use x="301.367188" xlink:href="#TrebuchetMS-32"/>
+      <use x="331.494141" xlink:href="#TrebuchetMS-37"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_53">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_54">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_55">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_56">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_57">
+    <path d="M 260.466875 97.48095 
+L 302.323125 81.40815 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="81.40815"/>
+    </g>
+   </g>
+   <g id="line2d_58">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_59">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_60">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_61">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_62">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_63">
+    <path d="M 260.466875 70.719738 
+L 302.323125 92.096562 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="70.719738"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="92.096562"/>
+    </g>
+   </g>
+   <g id="line2d_64">
+    <path d="M 260.466875 97.48095 
+L 302.323125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_65">
+    <path d="M 260.466875 97.48095 
+L 302.323125 88.560546 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="88.560546"/>
+    </g>
+   </g>
+   <g id="line2d_66">
+    <path d="M 260.466875 97.48095 
+L 302.323125 89.44455 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="260.466875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="302.323125" xlink:href="#mb3cbe44772" y="89.44455"/>
+    </g>
+   </g>
+   <g id="line2d_67">
+    <path clip-path="url(#pa2ae8120a4)" d="M 260.466875 95.569435 
+L 302.323125 94.737093 
+" style="fill:none;stroke:#000000;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke-width:1.5;"/>
+    <g clip-path="url(#pa2ae8120a4)">
+     <use style="stroke:#000000;" x="260.466875" xlink:href="#mb519f92386" y="95.569435"/>
+     <use style="stroke:#000000;" x="302.323125" xlink:href="#mb519f92386" y="94.737093"/>
+    </g>
+   </g>
+   <g id="line2d_68">
+    <path clip-path="url(#pa2ae8120a4)" d="M 260.466875 17.11695 
+L 302.323125 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 247.91 97.48095 
+L 247.91 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 247.91 97.48095 
+L 314.88 97.48095 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="text_26">
+    <!-- n.s. -->
+    <g transform="translate(274.6525 13.09875)scale(0.08 -0.08)">
+     <use xlink:href="#TrebuchetMS-110"/>
+     <use x="54.638672" xlink:href="#TrebuchetMS-46"/>
+     <use x="91.357422" xlink:href="#TrebuchetMS-115"/>
+     <use x="131.835938" xlink:href="#TrebuchetMS-46"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_11">
+    <path d="M 354.8 97.48095 
+L 421.77 97.48095 
+L 421.77 17.11695 
+L 354.8 17.11695 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_7">
+     <g id="line2d_69">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="367.356875" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 2P -->
+      <g transform="translate(363.02875 110.3797)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_70">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="409.213125" xlink:href="#mdf3a21b6d5" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- no 2P -->
+      <g transform="translate(399.348125 110.3797)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-110"/>
+       <use x="54.638672" xlink:href="#TrebuchetMS-111"/>
+       <use x="108.300781" xlink:href="#TrebuchetMS-32"/>
+       <use x="138.427734" xlink:href="#TrebuchetMS-50"/>
+       <use x="190.869141" xlink:href="#TrebuchetMS-80"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_15">
+     <g id="line2d_71">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="354.8" xlink:href="#meb5e284a50" y="97.48095"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- 0 -->
+      <g transform="translate(343.605 100.430325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_72">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="354.8" xlink:href="#meb5e284a50" y="77.38995"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- 25 -->
+      <g transform="translate(339.41 80.339325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-50"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_73">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="354.8" xlink:href="#meb5e284a50" y="57.29895"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- 50 -->
+      <g transform="translate(339.41 60.248325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-53"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_74">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="354.8" xlink:href="#meb5e284a50" y="37.20795"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- 75 -->
+      <g transform="translate(339.41 40.157325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-55"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_75">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="354.8" xlink:href="#meb5e284a50" y="17.11695"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- 100 -->
+      <g transform="translate(335.215 20.066325)scale(0.08 -0.08)">
+       <use xlink:href="#TrebuchetMS-49"/>
+       <use x="52.441406" xlink:href="#TrebuchetMS-48"/>
+       <use x="104.882812" xlink:href="#TrebuchetMS-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_34">
+     <!-- undefined % -->
+     <g transform="translate(329.57375 78.902075)rotate(-90)scale(0.08 -0.08)">
+      <defs>
+       <path d="M 15.375 52.296875 
+L 15.375 18.953125 
+Q 15.375 6.84375 25.875 6.84375 
+Q 30.46875 6.84375 34.28125 9.46875 
+Q 38.09375 12.109375 39.3125 15.578125 
+L 39.3125 52.296875 
+L 48.578125 52.296875 
+L 48.578125 0 
+L 39.3125 0 
+L 39.3125 7.234375 
+Q 37.75 4.15625 33.03125 1.578125 
+Q 28.328125 -0.984375 23.828125 -0.984375 
+Q 15.234375 -0.984375 10.671875 3.953125 
+Q 6.109375 8.890625 6.109375 17.96875 
+L 6.109375 52.296875 
+z
+" id="TrebuchetMS-117"/>
+       <path d="M 39.75 0.046875 
+L 39.75 3.90625 
+Q 34.90625 -0.921875 25.6875 -0.921875 
+Q 15.875 -0.921875 9.765625 6.109375 
+Q 3.65625 13.140625 3.65625 24.859375 
+Q 3.65625 36.625 10.6875 44.9375 
+Q 17.71875 53.265625 27.4375 53.265625 
+Q 35.546875 53.265625 39.75 49.46875 
+L 39.75 73.734375 
+L 49.03125 73.734375 
+L 49.03125 0.046875 
+z
+M 39.75 40.1875 
+Q 36.234375 45.453125 30.125 45.453125 
+Q 22.65625 45.453125 18.03125 39.890625 
+Q 13.421875 34.328125 13.421875 25.734375 
+Q 13.421875 6.84375 30.609375 6.84375 
+Q 32.8125 6.84375 35.890625 8.234375 
+Q 38.96875 9.625 39.75 11.1875 
+z
+" id="TrebuchetMS-100"/>
+       <path d="M 34.859375 65.4375 
+Q 32.03125 66.40625 29.59375 66.40625 
+Q 25.34375 66.40625 22.578125 63.1875 
+Q 19.828125 59.96875 19.828125 55.03125 
+Q 19.828125 53.71875 20.0625 52.296875 
+L 30.71875 52.296875 
+L 30.71875 44.484375 
+L 20.0625 44.484375 
+L 20.0625 0 
+L 10.796875 0 
+L 10.796875 44.484375 
+L 3.171875 44.484375 
+L 3.171875 52.296875 
+L 10.796875 52.296875 
+Q 10.796875 62.3125 15.71875 68.015625 
+Q 20.65625 73.734375 28.765625 73.734375 
+Q 32.8125 73.734375 37.453125 72.265625 
+z
+" id="TrebuchetMS-102"/>
+       <path d="M 16.15625 72.078125 
+Q 18.5625 72.078125 20.234375 70.390625 
+Q 21.921875 68.703125 21.921875 66.359375 
+Q 21.921875 63.96875 20.234375 62.28125 
+Q 18.5625 60.59375 16.15625 60.59375 
+Q 13.8125 60.59375 12.125 62.28125 
+Q 10.453125 63.96875 10.453125 66.359375 
+Q 10.453125 68.75 12.109375 70.40625 
+Q 13.765625 72.078125 16.15625 72.078125 
+z
+M 11.078125 0 
+L 11.078125 44.484375 
+L 3.90625 44.484375 
+L 3.90625 52.296875 
+L 20.359375 52.296875 
+L 20.359375 0 
+z
+" id="TrebuchetMS-105"/>
+      </defs>
+      <use xlink:href="#TrebuchetMS-117"/>
+      <use x="54.638672" xlink:href="#TrebuchetMS-110"/>
+      <use x="109.277344" xlink:href="#TrebuchetMS-100"/>
+      <use x="164.990234" xlink:href="#TrebuchetMS-101"/>
+      <use x="219.53125" xlink:href="#TrebuchetMS-102"/>
+      <use x="256.494141" xlink:href="#TrebuchetMS-105"/>
+      <use x="285.009766" xlink:href="#TrebuchetMS-110"/>
+      <use x="339.648438" xlink:href="#TrebuchetMS-101"/>
+      <use x="394.189453" xlink:href="#TrebuchetMS-100"/>
+      <use x="449.902344" xlink:href="#TrebuchetMS-32"/>
+      <use x="480.029297" xlink:href="#TrebuchetMS-37"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_76">
+    <path d="M 367.356875 17.11695 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="17.11695"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_77">
+    <path d="M 367.356875 97.48095 
+L 409.213125 77.38995 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="77.38995"/>
+    </g>
+   </g>
+   <g id="line2d_78">
+    <path d="M 367.356875 57.29895 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="57.29895"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_79">
+    <path d="M 367.356875 17.11695 
+L 409.213125 89.44455 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="17.11695"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="89.44455"/>
+    </g>
+   </g>
+   <g id="line2d_80">
+    <path d="M 367.356875 70.719738 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="70.719738"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_81">
+    <path d="M 367.356875 70.719738 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="70.719738"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_82">
+    <path d="M 367.356875 97.48095 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_83">
+    <path d="M 367.356875 97.48095 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_84">
+    <path d="M 367.356875 97.48095 
+L 409.213125 97.48095 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="97.48095"/>
+    </g>
+   </g>
+   <g id="line2d_85">
+    <path d="M 367.356875 97.48095 
+L 409.213125 92.096562 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="92.096562"/>
+    </g>
+   </g>
+   <g id="line2d_86">
+    <path d="M 367.356875 70.719738 
+L 409.213125 76.023762 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="70.719738"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="76.023762"/>
+    </g>
+   </g>
+   <g id="line2d_87">
+    <path d="M 367.356875 77.38995 
+L 409.213125 90.810738 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="77.38995"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="90.810738"/>
+    </g>
+   </g>
+   <g id="line2d_88">
+    <path d="M 367.356875 43.878162 
+L 409.213125 88.560546 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="43.878162"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="88.560546"/>
+    </g>
+   </g>
+   <g id="line2d_89">
+    <path d="M 367.356875 97.48095 
+L 409.213125 81.40815 
+" style="fill:none;stroke:#708090;stroke-linecap:square;stroke-opacity:0.5;stroke-width:1.5;"/>
+    <g>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="367.356875" xlink:href="#mb3cbe44772" y="97.48095"/>
+     <use style="fill:#708090;fill-opacity:0.5;stroke:#708090;stroke-opacity:0.5;" x="409.213125" xlink:href="#mb3cbe44772" y="81.40815"/>
+    </g>
+   </g>
+   <g id="line2d_90">
+    <path clip-path="url(#p59402f803c)" d="M 367.356875 72.131848 
+L 409.213125 91.292922 
+" style="fill:none;stroke:#000000;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke-width:1.5;"/>
+    <g clip-path="url(#p59402f803c)">
+     <use style="stroke:#000000;" x="367.356875" xlink:href="#mb519f92386" y="72.131848"/>
+     <use style="stroke:#000000;" x="409.213125" xlink:href="#mb519f92386" y="91.292922"/>
+    </g>
+   </g>
+   <g id="line2d_91">
+    <path clip-path="url(#p59402f803c)" d="M 367.356875 17.11695 
+L 409.213125 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 354.8 97.48095 
+L 354.8 17.11695 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 354.8 97.48095 
+L 421.77 97.48095 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="text_35">
+    <!-- * -->
+    <g transform="translate(386.81625 13.09875)scale(0.08 -0.08)">
+     <use xlink:href="#TrebuchetMS-42"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pab6b07ab6f">
+   <rect height="80.364" width="66.97" x="34.13" y="17.11695"/>
+  </clipPath>
+  <clipPath id="p15c8cf9df9">
+   <rect height="80.364" width="66.97" x="141.02" y="17.11695"/>
+  </clipPath>
+  <clipPath id="pa2ae8120a4">
+   <rect height="80.364" width="66.97" x="247.91" y="17.11695"/>
+  </clipPath>
+  <clipPath id="p59402f803c">
+   <rect height="80.364" width="66.97" x="354.8" y="17.11695"/>
+  </clipPath>
+ </defs>
+</svg>
