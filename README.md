@@ -1,7 +1,7 @@
 # protocolBLAST
 This repository provides data and tools to compare sample preparation protocols for correlative multimodal imaging experiments in life sciences.
 
-The data and code in this repository complement the findings described in [this paper]. 
+The data and code in this repository complement the findings described in [this paper](https://doi.org/10.1101/2022.02.18.481045). 
 
 ## About the paper:
 We tested a variety of sample preparation protocols (SPPs) for volume electron microscopy and analysed the occurrences of artefacts with respect to SPP variables. We also devised a method to quantify dataset registration (warping) accuracy. Both advances help increase the efficiency of studying the brain using a correlative multimodal imaging approach that we developed and described in detail in [this previous study](https://www.biorxiv.org/content/10.1101/2021.01.13.426503v1).
